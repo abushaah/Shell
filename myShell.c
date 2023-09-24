@@ -8,10 +8,8 @@
 #include <signal.h>      /* Signals */
 #include "myShell.h"
 /*
- *   CIS*3110 Assignment 1
  *      Author: Haifaa Abushaaban
- *      Due date: February 2, 2022
- *      Date of Last Revision: Monday, January 31, 2022
+ *      January 2022 - April 2022
  *      Summary: implementing a UNIX shell program
  *      Compile and Run:
  *         make
