@@ -1,10 +1,12 @@
 myShell.c
+
 Written by: Haifaa Abushaaban
 
 NOTE:
     commands are between square braces - [command]
 
 HOW TO RUN:
+
     1. make sure the profile file called ".CIS3110_profile" is in the same directory as the executable file
     2. $ make
     3. $ ./myShell
