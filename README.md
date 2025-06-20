@@ -1,6 +1,6 @@
 myShell.c
 
-Written by: Haifaa Abushaaban
+Written by: Haifaa
 
 NOTE:
     commands are between square braces - [command]
