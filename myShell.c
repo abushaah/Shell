@@ -8,7 +8,7 @@
 #include <signal.h>      /* Signals */
 #include "myShell.h"
 /*
- *      Author: Haifaa Abushaaban
+ *      Author: Haifaa
  *      January 2022 - April 2022
  *      Summary: implementing a UNIX shell program
  *      Compile and Run:
